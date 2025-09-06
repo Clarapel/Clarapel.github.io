@@ -1,4 +1,4 @@
-# [Your Name] - Data Analysis Portfolio
+# Osoneye Clara - Data Analysis Portfolio
 
 Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
@@ -14,14 +14,13 @@ This portfolio is designed to demonstrate skills in:
 
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+### Project Title Data Professional Survey
+*Analysis survey data from data professionals providing insight into their work,tool PowerBI ,key insight Work-life Balance Job Satisfaction Average salary breakdown.*
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+### Project Title Forbes Billionaire list of 2021 
+*In 2021 the average age of the billionaire is 69years old the percentage of male billionaire,tool PowerBI ,Top 5 richest people in the world.*
 
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+
 
 
 ## 🛠️ Skills
@@ -33,17 +32,7 @@ Update the `index.html` file to reflect your personal technical skillset. The te
 - **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
 - **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
 
-## 💡 How to Use This Template
 
-Creating your own portfolio from this template is a simple, four-step process.
-
-### 1. Create a New Repository from this Template
-Click the green **"Use this template"** button at the top of this repository page, then select **"Create a new repository"**.
-
-### 2. Name Your Repository for GitHub Pages
-This is the most important step. To turn your portfolio into a live website, you **must** name your new repository in the following format:
-`your-username.github.io`
-*(Replace `your-username` with your actual GitHub username.)*
 
 ### 3. Customize Your Portfolio
 Open the `index.html` file and begin personalizing it. The file contains helpful `<!--💡UPDATE: ... -->` comments to guide you on where to change:
