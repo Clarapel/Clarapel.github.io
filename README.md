@@ -36,9 +36,20 @@ Update the `index.html` file to reflect your personal technical skillset. The te
 
 ### 3. Customize Your Portfolio
 Open the `index.html` file and begin personalizing it. The file contains helpful `<!--💡UPDATE: ... -->` comments to guide you on where to change:
-- Your name and title
-- Social media links
-- The "About Me" section
+- Osoneye Clara
+- Data Analytics 
+- https://www.linkedin.com/in/oluwapelumi-o-980042279?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCbHYehMLS4uLsQU%2Bwp8A4w%3D%3D
+- Hi there,
+Welcome to my profile,
+ as you already know I am a data professional with close to half a decade of experience in the field. My goal in Data is to safely foresee the movement of data and also tell compelling data stories that will move the hearts of stakeholders while following best practices required for the job.
+
+Therefore; 
+- I safely execute ETL/ELT pipelines for optimum data movement.
+- I enjoy data quality checks and ensure data is properly cleaned before proceeding to the next step.
+- I ask the right questions to bring about exceptional insights from my data.
+- I ensure accurate analysis and interpretation of the data even for the understanding of non-data professionals.
+- I make sure data visualization is easily understood and perceived.
+- I drive home actionable Insights to bring about profound results business impact.
 - Your project titles, descriptions, and links
 - Your list of skills
 
