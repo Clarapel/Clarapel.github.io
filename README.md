@@ -34,7 +34,7 @@ Update the `index.html` file to reflect your personal technical skillset. The te
 
 
 
-### 3. Customize Your Portfolio
+### 3. 
 Open the `index.html` file and begin personalizing it. The file contains helpful `<!--💡UPDATE: ... -->` comments to guide you on where to change:
 - Osoneye Clara
 - Data Analytics 
@@ -53,8 +53,8 @@ Therefore;
 - Your project titles, descriptions, and links
 - Your list of skills
 
-### 4. Add Your Files
-- Upload your profile photo and project preview images to the `assets/images/` folder.
+### 4.
+- `assets/imaghttps://media.licdn.com/dms/image/v2/D4D22AQGFougtlvip-A/feedshare-shrink_2048_1536/B4DZc6iVadHwAw-/0/1749033769249?e=1760572800&v=beta&t=9rb2JdrPDHvbMj4jf-oLwtSpxop7Jt3eRjTNViAZhSges/https://media.licdn.com/dms/image/v2/D4D03AQGP0mxvKlMbBQ/profile-displayphoto-shrink_800_800/B4DZQrBCPIHYAc-/0/1735888480286?e=1760572800&v=beta&t=F4d7nDd4dn8OUld7GINlTv_1flHxbFwhPlnM2rzObNE` folder.
 - Upload your CV (e.g., in PDF format) to the `assets/` folder.
 - Create your favicon and add it to the root folder.
 
